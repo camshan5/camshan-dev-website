@@ -7,17 +7,17 @@ import HomepageVideo from '../../components/HomepageVideo';
 
 const FirstLeftText = () => (
   <p>
-    Think → <em>Guide</em>
+    {"Hi, I'm"}&nbsp;<em>Cameron</em>
   </p>
 );
 
 const FirstRightText = () => (
   <p>
-    <strong>Build Bonds</strong>
-    <br />
-    This is the guiding ethos behind IBM’s design philosophy and principles.
-    This helps us distinguish every element and every experience{' '}
-    <em>Designed by IBM.</em>
+    <strong>Who Am I?</strong>
+    <br />I am a software engineer specializing in writing clean, scalable{' '}
+    <em>Python</em> code and <em>Django</em> web applications. I make things
+    from scratch, contribute to open source, and develop software with the end
+    user's needs in mind.
   </p>
 );
 

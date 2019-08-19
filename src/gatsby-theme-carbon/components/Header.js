@@ -3,7 +3,7 @@ import Header from 'gatsby-theme-carbon/src/components/Header';
 
 const CustomSwitcher = () => (
   <Header>
-    IBM&nbsp;<span>Design Language</span>
+    <span>&lt;amshan /&gt;ev</span>
   </Header>
 );
 

@@ -13,39 +13,20 @@ const lastUpdated = new Intl.DateTimeFormat(undefined, {
 const Content = () => (
   <>
     <p>
-      Have questions? Email us or open
-      <br /> an issue in{' '}
-      <a href="https://github.com/carbon-design-system/design-language-website/issues/new/choose">
-        GitHub.
-      </a>
-    </p>
-    <p>
       Last updated {lastUpdated}
       <br />
-      Copyright © {currentYear} IBM
+      Copyright © {currentYear} Cameron Shannon
     </p>
   </>
 );
 
 const links = {
   firstCol: [
-    {
-      href: 'https://www.carbondesignsystem.com/contributing/designers/',
-      linkText: 'Contribute',
-    },
-    {
-      href: 'https://www.ibm.com/privacy/us/en/?lnk=flg-priv-usen',
-      linkText: 'Privacy',
-    },
-    {
-      href: 'https://www.ibm.com/legal/us/en/?lnk=flg-tous-usen',
-      linkText: 'Terms of Use',
-    },
-    { href: 'https://ibm.com/design', linkText: 'IBM.com' },
+    { href: 'https://twitter.com/camshan5', linkText: 'Twitter' },
+    { href: 'https://github.com/camshan5', linkText: 'Github' },
   ],
   secondCol: [
-    { href: 'https://twitter.com/ibmdesign', linkText: 'Twitter' },
-    { href: 'https://facebook.com/ibmdesign', linkText: 'Facebook' },
+
   ],
 };
 

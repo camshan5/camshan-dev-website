@@ -1,4 +1,4 @@
-# Theme and Template for <camshan />ev site using the IBM Design Language
+# Theme and Template for camshan-dev site using the IBM Design Language
 
 This is the [IBM Design Language website](http://www.ibm.com/design/language) which is built using GatsbyJS and the [gatsby-theme-carbon](https://github.com/carbon-design-system/gatsby-theme-carbon).
 
